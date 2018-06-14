@@ -4,6 +4,5 @@
 ```
 truffle init
 truffle migrate
-
-delete ./build/contracts in between migrates
+rm build/contracts/*
 ```
