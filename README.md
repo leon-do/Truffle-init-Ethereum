@@ -3,5 +3,7 @@
 
 ```
 truffle init
-truffle compile
+truffle migrate
+
+delete ./build/contracts in between migrates
 ```
