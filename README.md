@@ -1,1 +1,1 @@
-![alt text](http://url/to/img.gif)
+![alt text](img.gif)
